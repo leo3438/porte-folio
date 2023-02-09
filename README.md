@@ -11,6 +11,7 @@ projet qui a pour but de crée mon porte folio et de l'heberger sur mon serveur 
 - Light/dark mode toggle
 - mobile friendly
 - animation
+- hebergement 
 
 ## organisation :
 
@@ -23,8 +24,8 @@ projet qui a pour but de crée mon porte folio et de l'heberger sur mon serveur 
 - mes projets de stage 
 - mes projets scolaire
 - mes projets personnel
-- /body
 - footer
 - mes liens 
 - /footer
+- /body
 
